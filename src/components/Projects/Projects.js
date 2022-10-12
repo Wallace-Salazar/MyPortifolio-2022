@@ -23,11 +23,11 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-               imgPath={cauculadora}
+              imgPath={cauculadora}
               isBlog={false}
               title="Cauculadora"
               description="Uma cauculadora básica feita com react e java script, atende a varias operações matemáticas de uma forma simples e resumida."
-              link="https://github.com"
+              link="https://github.com/Wallace-Salazar/Cauculadora-Vnw-React"
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Contador"
               description="Esse projeto, consistiu em fazer um contador de fácil utilização, cuja função seje adcionar ou remover 1 sempre que clicarmos em uma função."
-              link="https://github.com"
+              link="https://github.com/Wallace-Salazar/Desafio06-React-contador"
             />
           </Col>
 
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Dog Page"
               description="Essa pag. consite em gerar um dog aleatorio. Foi um dos desafios do curso de denver, projetado com react."
-              link="https://deployment-for-ethereum-project.vercel.app/"
+              link="https://github.com/Wallace-Salazar/Amigao2.0-VNW"
             />
           </Col>
 
@@ -57,7 +57,7 @@ function Projects() {
               isBlog={false}
               title="Star Wars"
               description="Esse foi o desafio final do modulo 1, cujo objetivo era recriar uma imagem em formato de site utilizando apenas HTML e CSS, obtive varios aprendizados com esse projeto."
-              link="https://github.com/soumyajit4419/Bits-0f-C0de"
+              link="https://github.com/Wallace-Salazar/Star-Wars--Desafio-Final-VNW"
             />
           </Col>
 
@@ -67,7 +67,7 @@ function Projects() {
               isBlog={false}
               title="Recipes"
               description="O objetivo desse desafio foi testar nosso crescimento e descobrir como seriamos tendo que trabalhar em conjunto com outra pessoa. Foi inspirador e de grande aprendizado."
-              link="https://mediacall.vercel.app/"
+              link="https://github.com/Wallace-Salazar/ReactHooks-08--PairPrograming"
             />
           </Col>
 
@@ -77,7 +77,7 @@ function Projects() {
               isBlog={false}
               title="Star Guardians"
               description="Site criado com tema livre cujo objetivo era desenvolver o conhecimento em Js. Apenas um site para ver as novas skins Star Guardians do Leagle Of Legends. "
-              link="https://github.com/google/mediapipe"
+              link="https://github.com/Wallace-Salazar/04-Desafio-react"
             />
           </Col>
         </Row>
